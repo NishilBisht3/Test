@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: NishilBisht
+Build-Jdk: 12.0.1
+Implementation-Title: apm
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cosmin.tutorials.apm
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/apm
+Created-By: Maven Integration for Eclipse
+
